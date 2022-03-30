@@ -1,2 +1,4 @@
 # SCAN-AD
-In progress
+
+San AD object to list deleguation objects
+
